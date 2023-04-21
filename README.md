@@ -13,6 +13,6 @@ i have devlope the Discord clone landing page using html and css
 
 original website : https://discord.com/
 
-solution link :
+solution link : https://github.com/Vinoth30457/discord.git
 
-my project live link:
+my project live link: https://deluxe-manatee-5f8a25.netlify.app
