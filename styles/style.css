@@ -18,13 +18,13 @@ body {
   width: 100%;
   font-family: "Open Sans", sans-serif;
   background-color: #fff;
-  overflow: hidden;
-  overscroll-behavior: hidden;
+  overflow-x: hidden;
 }
 
 .container {
   width: 100%;
   overflow: hidden;
+  overflow-x: hidden;
 }
 
 /* global css */
