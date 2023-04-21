@@ -26,6 +26,13 @@ body {
   white-space: pre;
 }
 
+pre {
+  display: block;
+  font-family: monospace;
+  white-space: pre;
+  margin: 1em 0px;
+}
+
 .container {
   max-width: 100%;
   margin: 0 auto;
