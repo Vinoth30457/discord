@@ -26,11 +26,6 @@ body {
   white-space: pre;
 }
 
-pre {
-  display: block;
-  font-family: monospace;
-  white-space: pre;
-}
 
 .container {
   max-width: 100%;
