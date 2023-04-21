@@ -15,14 +15,18 @@ html {
 }
 
 body {
-  width: 100vw;
   font-family: "Open Sans", sans-serif;
   background-color: #fff;
   overflow-x: hidden;
 }
 
-.container {
+body {
   width: 100vw;
+  min-height: 100vh;
+}
+
+.container {
+  width: 100%;
   overflow: hidden;
   overflow-x: hidden;
 }
